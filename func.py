@@ -1,3 +1,5 @@
+nombre = "Miry"
+
 def suma(*num):
     suma = sum(num)
     return suma
